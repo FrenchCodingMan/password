@@ -59,6 +59,9 @@ while True:
 # V2
 
 I need to secure data , i read actually Fernet Documentation
+i did (in my terminal) pip install crytography
+inpired by this webSite for to generate key <br>
+https://pypi.org/project/cryptography/
 
 # Final goal
 
