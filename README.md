@@ -56,6 +56,10 @@ while True:
 
 <h2>Don't forget , i'm just starting in python, i need to control the basic before to play an other level </h2>
 
+# V2
+
+I need to secure data , i read actually Fernet Documentation
+
 # Final goal
 
 I have two dream , the first work for a E commerce start up or a bank
