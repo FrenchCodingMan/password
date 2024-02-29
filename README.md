@@ -60,8 +60,10 @@ while True:
 
 I need to secure data , i read actually Fernet Documentation
 i did (in my terminal) pip install crytography
-inpired by this webSite for to generate key <br>
+inspired by this webSite for to generate key <br>
 https://pypi.org/project/cryptography/
+inspired by this webSite to encrypt
+https://www.geeksforgeeks.org/how-to-encrypt-and-decrypt-strings-in-python/
 
 # Final goal
 
